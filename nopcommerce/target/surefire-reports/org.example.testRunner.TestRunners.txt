@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: org.example.testRunner.TestRunners
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 219.647 s <<< FAILURE! - in org.example.testRunner.TestRunners
+org.example.testRunner.TestRunners.runScenario  Time elapsed: 7.102 s  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	expected [true] but found [false],
+	expected [true] but found [false],
+	expected [true] but found [false],
+	expected [true] but found [false],
+	expected [true] but found [false],
+	expected [true] but found [false]
+
